@@ -36,6 +36,6 @@ int main() {
     return 0;
 }
 
-/*----Not----
-%f ondalık sayıyı olduğu gibi yazdırırken, %.2f ondalık sayının ondalık kısmını en fazla iki basamak olarak sınırlar.
-switch-case, programın belirli bir değerin farklı koşullarına göre farklı blokları çalıştırmasını sağlayan bir kontrol yapısıdır. if-else gibidir.*\
+//----Not----
+//%f ondalık sayıyı olduğu gibi yazdırırken, %.2f ondalık sayının ondalık kısmını en fazla iki basamak olarak sınırlar.
+//switch-case, programın belirli bir değerin farklı koşullarına göre farklı blokları çalıştırmasını sağlayan bir kontrol yapısıdır. if-else gibidir.
