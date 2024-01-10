@@ -11,5 +11,5 @@ int main(){
     return 0;
 }
 
-/*----Not----
-for döngüsü, başlangıç değeri, koşul ifadesi ve artış ifadesi ile birlikte kullanılır.*\
+//----Not----
+//for döngüsü, başlangıç değeri, koşul ifadesi ve artış ifadesi ile birlikte kullanılır.
