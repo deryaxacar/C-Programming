@@ -12,6 +12,6 @@ int main(){
     return 0;
 }
 
-/*----Not----
-Scanf,standart giriş fonksiyonudur. Klavyeden kullanıcıdan veri almak için kullanılır.
-Format belirteçleri (%d, %.2f, %lf vs) kullanılarak veri tipine göre giriş alır.*\
+//----Not----
+//Scanf, standart giriş fonksiyonudur. Klavyeden kullanıcıdan veri almak için kullanılır.
+//Format belirteçleri (%d, %.2f, %lf vs) kullanılarak veri tipine göre giriş alır.
