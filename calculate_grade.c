@@ -32,3 +32,8 @@ int main() {
 
     return 0;
 }
+
+//if-else ifadesi, programların belirli koşullara göre farklı yolları takip etmelerini sağlayan bir yapıdır. 
+//İki ana bloktan oluşur: if ve opsiyonel olarak else.
+//"eğer (if) şu koşul sağlanıyorsa şu kodu çalıştır, aksi takdirde (else) şu kodu çalıştır", 
+//"else if" ifadesi ise, "değilse eğer" mantığına dayanır.
