@@ -5,10 +5,10 @@ int main(){
 	
 	printf("Birinci sayiyi girin: ");
 	scanf("%d", &x);
-    printf("Ikinci sayiyi girin: ");
-    scanf("%d", &y);
-    result = x + y;
-    printf("Toplam: %d\n", result);
+	printf("Ikinci sayiyi girin: ");
+	scanf("%d", &y);
+	result = x + y;
+	printf("Toplam: %d\n", result);
     return 0;
 }
 
