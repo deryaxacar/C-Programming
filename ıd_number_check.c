@@ -45,3 +45,4 @@ int main()
 //TC kimlik numaralarında ilk 10 hanenin toplamının birler basamağı 11. haneye eşittir. 
 //Bu kod basitce bunun kontrolünü yaparak girilen
 //11 heneli sayıların tc kimlik numarası olup olamayacağının kontrolünü yapmaktadır.
+// "%lld" (long long int) türünü işlemek için kullanılır.
