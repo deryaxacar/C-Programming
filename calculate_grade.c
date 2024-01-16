@@ -5,6 +5,7 @@ int main()
     int note1, note2, note3;
     float result;
 
+    // Kullanıcıdan 3 farklı notu al
     printf("1. not: ");
     scanf("%d", &note1);
 
@@ -14,10 +15,13 @@ int main()
     printf("3. not: ");
     scanf("%d", &note3);
 
+    // Notların ortalamasını hesapla
     result = (note1 + note2 + note3) / 3.0;
 
+    // Ortalamayı ekrana yazdır
     printf("Ortalama: %.2f\n", result);
 
+    // Harf notunu belirle ve ekrana yazdır
     if (result >= 90)
         printf("Harf notu: AA\n");
     else if (result >= 80)
@@ -33,6 +37,7 @@ int main()
 
     return 0;
 }
+
 
 //if-else ifadesi, programların belirli koşullara göre farklı yolları takip etmelerini sağlayan bir yapıdır. 
 //İki ana bloktan oluşur: if ve opsiyonel olarak else.
