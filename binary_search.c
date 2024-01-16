@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int binarySearch(int arr[], int index, int dest) {
+int binarySearch(int arr[], int index, int dest) 
+{
     int middle, start = 0;
     int end = index - 1;
 
@@ -18,7 +19,8 @@ int binarySearch(int arr[], int index, int dest) {
     return -1;
 }
 
-int main() {
+int main() 
+{
     int arr[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
     int index = sizeof(arr) / sizeof(arr[0]);
     int dest = 7;
