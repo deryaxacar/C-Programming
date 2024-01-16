@@ -5,6 +5,7 @@ int main()
     char format;
     double x, y;
 
+    // Kullanıcıdan iki sayıyı ve işlem türünü alma
     printf("İlk sayiyi girin: ");
     scanf("%lf", &x); // lf (float veya double türündeki değişkenler)
 
@@ -12,9 +13,11 @@ int main()
     scanf("%lf", &y); 
 
     printf("İşlem türünü seçin (+, -, *, /): ");
-    scanf(" %c", &format);
+    scanf(" %c", &format); // Boşluk bırakarak karakteri al, scanf'in beklenmedik giriş sorunlarını çözer
 
-    switch (format) {
+    // Kullanıcının seçtiği işlem türüne göre hesaplama yapma
+    switch (format) 
+    {
         case '+':
             printf("%.2f + %.2f = %.2f\n", x, y, x + y);
             break;
@@ -36,6 +39,7 @@ int main()
 
     return 0;
 }
+
 
 //----Not----
 //%f ondalık sayıyı olduğu gibi yazdırırken, %.2f ondalık sayının ondalık kısmını en fazla iki basamak olarak sınırlar.
