@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(){
+int main()
+{
 	int x, y, result;
 	
 	printf("Birinci sayiyi girin: ");
