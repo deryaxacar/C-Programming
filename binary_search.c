@@ -17,7 +17,7 @@ int binarySearch(int arr[], int index, int dest)
             start = middle + 1;
     }
 
-    return -1; //hata durumu 1 den farkı bir işlemin başarıyla gerçekleşmemesi.
+    return -1; //hata durumu (return 1 den farkı bir işlemin başarıyla gerçekleşmemesi.)
 }
 
 int main() 
