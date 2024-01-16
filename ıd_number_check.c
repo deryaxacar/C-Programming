@@ -41,7 +41,7 @@ int main()
     return 0;
 }
 
-// TC kimlik numaralarında ilk 10 hanenin toplamının birler basamağı
-// 11. haneye eşittir. Bu kod basitce bunun kontrolünü yaparak girilen
-// 11 heneli sayıların tc kimlik numarası olup olamayacağının kontrolünü
-// yapmaktadır.
+//----Not----
+//TC kimlik numaralarında ilk 10 hanenin toplamının birler basamağı 11. haneye eşittir. 
+//Bu kod basitce bunun kontrolünü yaparak girilen
+//11 heneli sayıların tc kimlik numarası olup olamayacağının kontrolünü yapmaktadır.
