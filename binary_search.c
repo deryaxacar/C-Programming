@@ -5,7 +5,8 @@ int binarySearch(int arr[], int index, int dest)
     int middle, start = 0;
     int end = index - 1;
 
-    while (start <= end) {
+    while (start <= end) 
+    {
         middle = (start + end) / 2;
 
         if (arr[middle] == dest)
@@ -16,7 +17,7 @@ int binarySearch(int arr[], int index, int dest)
             start = middle + 1;
     }
 
-    return -1;
+    return -1; //hata durumu 1 den farkı bir işlemin başarıyla gerçekleşmemesi.
 }
 
 int main() 
