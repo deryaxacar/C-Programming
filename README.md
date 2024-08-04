@@ -9,7 +9,7 @@ Bu repo, çeşitli C programlama alıştırmalarını içeren bir koleksiyondur.
 3. [Kullanım](#kullanım)
 4. [Geri Bildirim ve Katkı](#geri-bildirim-ve-katkı)
 
-## Proje Açıklaması
+## Açıklama
 
 Bu repo, çeşitli C programlama alıştırmalarını içerir. Her dosya, farklı bir algoritma veya işlevi uygulayarak C dilindeki becerilerinizi geliştirmeye yardımcı olur.
 
