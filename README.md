@@ -10,10 +10,10 @@ This repository is a collection of various C programming exercises. Each file fo
 
 ## Table of Contents
 
-1. [Project Description](#project-description)
-2. [Files](#files)
-3. [Usage](#usage)
-4. [Feedback & Contributions](#feedback--contributions)
+- [Project Description](#project-description)
+- [Files](#files)
+- [Usage](#usage)
+- [Feedback & Contributions](#feedback--contributions)
 
 ---
 
