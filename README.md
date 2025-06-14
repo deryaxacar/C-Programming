@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>C Programming Exercises 📚</h1> <img src="https://github.com/deryaxacar/C-Programming/blob/main/c.png" alt="C Logo" width="65"></br></br>
+  <h1>C Programming Exercises 📚</h1> <img src="https://github.com/deryaxacar/C-Programming/blob/main/c.PNG" alt="C Logo" width="65"></br></br>
 </div>
 
 This repository is a collection of various C programming exercises. Each file focuses on a specific programming concept and provides an opportunity to practice and improve your skills. The goal is to offer a range of exercises that help understand and apply both basic and advanced topics in C.
