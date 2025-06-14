@@ -1,55 +1,58 @@
-# C Programming Exercises 📚
+<div align="center">
+  <h1>C Programming Exercises 📚</h1> <img src="https://github.com/deryaxacar/C-Programming/blob/main/c.png" alt="C Logo" width="65"></br></br>
+</div>
 
-Bu repo, çeşitli C programlama alıştırmalarını içeren bir koleksiyondur. Her bir dosya, belirli bir programlama konusunu ele alır ve bu konularda pratik yapmayı sağlar. Amaç, C dilinde temel ve ileri düzey konuları anlamak ve uygulamak için çeşitli alıştırmalar sunmaktır.
+This repository is a collection of various C programming exercises. Each file focuses on a specific programming concept and provides an opportunity to practice and improve your skills. The goal is to offer a range of exercises that help understand and apply both basic and advanced topics in C.
 
-## İçindekiler
+## Table of Contents
 
-1. [Proje Açıklaması](#proje-açıklaması)
-2. [Dosyalar](#dosyalar)
-3. [Kullanım](#kullanım)
-4. [Geri Bildirim ve Katkı](#geri-bildirim-ve-katkı)
+1. [Project Description](#project-description)
+2. [Files](#files)
+3. [Usage](#usage)
+4. [Feedback & Contributions](#feedback--contributions)
 
-## Açıklama
+## Project Description
 
-Bu repo, çeşitli C programlama alıştırmalarını içerir. Her dosya, farklı bir algoritma veya işlevi uygulayarak C dilindeki becerilerinizi geliştirmeye yardımcı olur.
+This repository includes a variety of C programming exercises. Each file implements a different algorithm or function to help you improve your skills in the C programming language.
 
-## Dosyalar
-- **`binary_search.c`**: 
-  Bu dosya, bir dizi içinde ikili arama algoritması ile belirli bir öğeyi arar. İkili arama, sıralı bir dizide hızlı bir arama yöntemidir. 🔍
+## Files
 
-- **`calculate_grade.c`**: 
-  Bu dosya, öğrenci notlarını alarak bir harf notu hesaplar. Notlar ve harf notları arasındaki ilişkiyi gösteren bir hesaplama yapar. 🎓
+- **`binary_search.c`**:  
+  This file implements the binary search algorithm to find a specific element in an array. Binary search is an efficient method for searching in a sorted array. 🔍
 
-- **`simple-calculator.c`**: 
-  Bu dosya, dört temel matematiksel işlemi (toplama, çıkarma, çarpma, bölme) gerçekleştiren basit bir hesap makinesi programıdır. 🧮
+- **`calculate_grade.c`**:  
+  This file calculates a letter grade based on student scores. It demonstrates how to map numeric scores to letter grades. 🎓
 
-- **`sum-of-numbers.c`**: 
-  Bu dosya, kullanıcıdan bir dizi sayı alarak bu sayıların toplamını hesaplar. Toplama işlemi, döngü ve toplama işlemlerini içerir. ➕🔢
+- **`simple-calculator.c`**:  
+  This file is a simple calculator program that performs the four basic arithmetic operations: addition, subtraction, multiplication, and division. 🧮
 
-- **`the-multiplication-table.c`**: 
-  Bu dosya, belirli bir sayı için çarpanlar tablosu oluşturur. Bu, çarpma işlemlerini öğrenmeye yardımcı olur ve bir tablonun nasıl oluşturulacağını gösterir. ✖️📊
+- **`sum-of-numbers.c`**:  
+  This file takes a list of numbers from the user and calculates their sum using loops and arithmetic operations. ➕🔢
 
-- **`ıd_number_check.c`**: 
-  Bu dosya, verilen bir kimlik numarasının geçerliliğini kontrol eder. Kimlik doğrulama işlemleri ve veri kontrolü üzerine bir uygulama sağlar. 🆔✅
+- **`the-multiplication-table.c`**:  
+  This file generates a multiplication table for a given number. It helps in learning multiplication and how to build tabular outputs. ✖️📊
 
-## Kullanım
+- **`id_number_check.c`**:  
+  This file checks the validity of a given ID number. It demonstrates data validation and basic verification logic. 🆔✅
 
-Her bir programı çalıştırmak için, öncelikle C derleyicisi (örneğin `gcc`) kullanarak dosyayı derlemeniz gerekir. Örneğin:
+## Usage
 
-1. Programı derleyin:
+To run each program, you need to compile the file using a C compiler (e.g., `gcc`). For example:
+
+1. Compile the program:
     ```sh
     gcc binary_search.c -o binary_search
     ```
-2. Derlenen programı çalıştırın:
+
+2. Run the compiled program:
     ```sh
     ./binary_search
     ```
 
-Diğer dosyalar için de benzer adımları izleyebilirsiniz. Programları derlemek ve çalıştırmak için dosya adını uygun şekilde değiştirin.
+Repeat the same steps for other files by replacing the file name accordingly.
 
-## Geri Bildirim ve Katkı
+## Feedback & Contributions
 
-Her türlü geri bildirim ve katkı memnuniyetle karşılanır! Lütfen önerilerinizi ve katkılarınızı [bu repo](https://github.com/deryaxacar/c-programming-exercises) üzerinden yapabilirsiniz.
+Any kind of feedback and contributions are highly appreciated! Please feel free to open issues or pull requests via [this repo](https://github.com/deryaxacar/c-programming-exercises).
 
 ---
-
